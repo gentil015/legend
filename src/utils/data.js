@@ -141,25 +141,25 @@ export const TESTIMONIALS = [
   {
     quote:
       "Legend Band transformed our corporate gala into an unforgettable night. The energy was perfect, the professionalism outstanding.",
-    name: "Sarah Mitchell",
+    name: "Kagabo Yve",
     role: "Event Coordinator, Premium Events Co.",
   },
   {
     quote:
       "We hired them for our wedding and they nailed it. They read the room perfectly and made our day truly special.",
-    name: "James & Emma Chen",
+    name: "Manzi Noella",
     role: "Wedding Clients",
   },
   {
     quote:
       "As a festival director, I've worked with many acts. Legend Band brings reliability, talent, and genuine engagement with every crowd.",
-    name: "Marcus Idris",
+    name: "Jean Pierre Niyonkuru",
     role: "Festival Director, Lumen Fest",
   },
   {
     quote:
       "Professional musicians, flexible setlists, excellent communication throughout the process. Highly recommended for any event.",
-    name: "David Torres",
+    name: "Dushime Gentil",
     role: "Hotel Events Manager",
   },
 ];

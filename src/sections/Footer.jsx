@@ -122,7 +122,10 @@ export default function Footer() {
         <span className="font-mono text-[0.7rem] text-smoke">
           © {new Date().getFullYear()} Legend Band. All rights reserved.
         </span>
-        <span className="font-mono text-[0.7rem] text-smoke">Crafted for the road, built for the stage.</span>
+        <div className="flex items-center gap-4">
+          <span className="font-mono text-[0.7rem] text-smoke">Crafted for the road, built for the stage.</span>
+          <span className="font-mono text-[0.7rem] text-smoke">Platform developed by BII Technologies.</span>
+        </div>
       </div>
     </footer>
   );
